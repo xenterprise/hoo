@@ -28,7 +28,7 @@ import com.google.firebase.database.ValueEventListener;
  * A simple {@link Fragment} subclass.
  */
 public class controlsConf extends Fragment {
-
+// ali
     //    private String hooletId = "";
     private String roomId = "";     // current room id
     private Button btnBase, btnControl1, btnControl2, btnControl3, btnContext;
