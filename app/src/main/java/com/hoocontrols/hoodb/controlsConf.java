@@ -28,6 +28,7 @@ import com.google.firebase.database.ValueEventListener;
  * A simple {@link Fragment} subclass.
  */
 public class controlsConf extends Fragment {
+    //junaid
 // ali
     // mobeen
     //raza
